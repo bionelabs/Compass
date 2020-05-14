@@ -1,8 +1,18 @@
 # Product Management
 
-# Estimation Guidelines
+# Estimation
+
+As a generally accepted agile pattern, bug and chore issues are NOT assigned any point as these issues cannot be properly estimated.
+
+Once a feature has all the required meta-data (title, description, acceptance criteria), it needs to be estimated by the development squad.
+
+The estimation can be done either by a single developer or by the whole development squad. We usually do not follow any formal methodology such as Planning Poker but favor open communication. We also accept and actually embrace that estimation can be biased based on who will estimate. As long as the individual or squad who made the estimation is also the one who will execute the work, the estimation will likely be correct and will represent the actual velocity of the individual and the development team over time.
+
+## Scale
 
 We use the Fibonacci-based scale 0, 1, 2, 3, 5 and 8 to estimate feature stories.
+
+## Estimation Guidelines
 
 When assigning points to a user story, we follow the multi-faceted guideline hereafter:
 
