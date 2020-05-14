@@ -1,5 +1,3 @@
-# Product Management
-
 # Estimation
 
 As a generally accepted agile pattern, bug and chore issues are NOT assigned any point as these issues cannot be properly estimated.
