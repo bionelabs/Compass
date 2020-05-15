@@ -5,5 +5,6 @@ This living document is more than a code of conduct or a set of rules but really
 - Introduction
 - Design
 - Product Management
+-- [Estimate](https://github.com/onebuffer/Compass/blob/master/Estimation.MD)
 - Development
 - Production
