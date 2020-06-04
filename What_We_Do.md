@@ -1,6 +1,6 @@
 # What We Do?
---
-## When creating mobile apps, we take care of everything. And we do mean everything:
+When creating mobile apps, we take care of everything. And we do mean everything:
+---
 
 ### Initial brief - First of all, let’s get to know each other
 Ideally around the same table. To discuss what you actually need, why you’d like to achieve it, what the weak spots of your business are, and what we can do to help. We’re experts at asking the right questions, so it’s likely we’ll come across things that had never occurred to you before.
